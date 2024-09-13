@@ -1,8 +1,8 @@
-package br.sesi.dos.poo;
+package br.sesi.poo;
 
-import br.sesi.dos.poo.cabeca.Cabeca;
-import br.sesi.dos.poo.inferior.MembrosInferiores;
-import br.sesi.dos.poo.tronco.Tronco;
+import br.sesi.poo.cabeca.Cabeca;
+import br.sesi.poo.inferior.MembrosInferiores;
+import br.sesi.poo.tronco.Tronco;
 
 
 public class Pessoa {

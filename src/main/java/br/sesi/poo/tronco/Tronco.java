@@ -1,4 +1,4 @@
-package br.sesi.dos.poo.tronco;
+package br.sesi.poo.tronco;
 
 public class Tronco {
     Braco bracoEsquerdo;

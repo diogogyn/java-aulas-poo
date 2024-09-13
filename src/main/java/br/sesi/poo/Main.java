@@ -1,4 +1,4 @@
-package br.sesi.dos.poo;
+package br.sesi.poo;
 
 public class Main {
 

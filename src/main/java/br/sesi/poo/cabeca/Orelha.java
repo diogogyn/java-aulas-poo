@@ -1,4 +1,4 @@
-package br.sesi.dos.poo.cabeca;
+package br.sesi.poo.cabeca;
 
 public class Orelha {
     float tamanhoOrelha;

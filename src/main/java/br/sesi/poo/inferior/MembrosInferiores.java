@@ -1,4 +1,4 @@
-package br.sesi.dos.poo.inferior;
+package br.sesi.poo.inferior;
 
 public class MembrosInferiores {
 
