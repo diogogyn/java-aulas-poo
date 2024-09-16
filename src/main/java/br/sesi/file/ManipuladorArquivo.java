@@ -7,12 +7,15 @@ public class ManipuladorArquivo {
     public static void leitor(String path) throws IOException {
         BufferedReader buffRead = new BufferedReader(new FileReader(path));
         String linha = "";
+        String[] dados;
         while (true) {
             if (linha != null) {
                 System.out.println(linha);
-
-            } else
+                dados = linha.split("\\|");
+                System.out.println(dados.length);
+            } else {
                 break;
+            }
             linha = buffRead.readLine();
         }
         buffRead.close();
